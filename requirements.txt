@@ -1,3 +1,6 @@
 langchain
 langchain_core
 python-dotenv
+streamlit
+fastapi
+notebook
